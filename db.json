@@ -318,6 +318,12 @@
           "urlFile": "https://github.com/",
           "countPage": 22,
           "fileClass": "عملي"
+        },
+        {
+          "name": "file 2",
+          "urlFile": "https://github.com/",
+          "countPage": 22,
+          "fileClass": "عملي"
         }
       ],
       "tools": [
